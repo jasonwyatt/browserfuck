@@ -1,6 +1,6 @@
-# BrainfuckScript
+# Browserfuck
 
-The goal of this project is to be ridiculous. I do not suggest you actually use Brainfuck to script your DOM, as it is a horrible language. It is fun, however, to play with.  Enjoy.
+The goal of this project is to be ridiculous. I do not suggest you actually use Brainfuck as your client-side language of choice as it is a horrible language. It is fun, however, to play with.  Enjoy.
 
 ## Compiling the Compiler
 
