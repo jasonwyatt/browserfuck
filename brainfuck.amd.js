@@ -1,5 +1,4 @@
-/* Jison generated parser */
-var brainfuck = (function(){
+define([], function(){
 var parser = {trace: function trace() { },
 yy: {},
 symbols_: {"error":2,"program":3,"commandlist":4,"EOF":5,"command":6,"[":7,"]":8,">":9,"<":10,"+":11,"-":12,".":13,",":14,"$accept":0,"$end":1},
@@ -410,4 +409,4 @@ lexer.conditions = {"INITIAL":{"rules":[0,1,2,3,4,5,6,7,8,9],"inclusive":true}};
 return lexer;})()
 parser.lexer = lexer;
 return parser;
-})();
+});
